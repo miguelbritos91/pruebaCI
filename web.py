@@ -5,5 +5,7 @@ import suma
 
 @app.route('/')
 def index():
-  return 'Hola mundo - '
-  return sum(3,5)
+  return 'Hola mundo'
+
+
+print sum(3,2)
