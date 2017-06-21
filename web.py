@@ -5,4 +5,4 @@ import suma
 
 @app.route('/')
 def index():
-  print sum(2,4)
+  suma.sum(2,4)
