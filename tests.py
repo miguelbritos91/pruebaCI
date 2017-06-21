@@ -2,7 +2,7 @@ import unittest
 import web
 import suma
 
-class FlaskrTestCase(unittest.TestCase):
+"""class FlaskrTestCase(unittest.TestCase):
     def setUp(self):
         self.app = web.app.test_client()
 
@@ -11,7 +11,7 @@ class FlaskrTestCase(unittest.TestCase):
         assert b'6' in rv.data
 
 if __name__ == '__main__':
-    unittest.main()
+    unittest.main()"""
 
 
 
