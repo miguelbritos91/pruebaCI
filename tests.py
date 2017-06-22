@@ -2,16 +2,16 @@ import unittest
 import web
 import suma
 
-"""class FlaskrTestCase(unittest.TestCase):
+class FlaskrTestCase(unittest.TestCase):
     def setUp(self):
         self.app = web.app.test_client()
 
     def test_index(self):
         rv = self.app.get('/')
-        assert b'6' in rv.data
+        assert b'Hola mundo' in rv.data
 
 if __name__ == '__main__':
-    unittest.main()"""
+    unittest.main()
 
 
 
