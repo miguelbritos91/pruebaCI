@@ -5,4 +5,4 @@ app = Flask(__name__)
 @app.route('/')
     
 def index():
-  return "Hola mundo"
+  return "Plastic Scrum app"
