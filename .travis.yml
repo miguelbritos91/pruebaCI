@@ -5,3 +5,11 @@ script: "python -m unittest discover"
 
 notifications:
     slack: plasticscrum:O4YEYzaoFMLIJIdOQFZfVRiU
+
+addons:
+	sonarqube:
+		token:
+			secure: 4d21d5cbbc44775625def7f45527c526e539eb4a
+
+script:
+	- sonar-scanner
