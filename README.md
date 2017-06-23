@@ -1,6 +1,6 @@
-# pruebaCI
-LABORATORIO DE INEGRACION CONTINUA 2017-CATEDRA TECNICAS DE DESARROLLO DE SOFTWARE AGIL
-GRUPO:PLASTICSCRUM
+# LABORATORIO DE INTEGRACION CONTINUA 2017-CATEDRA TECNICAS DE DESARROLLO DE SOFTWARE AGIL
+
+# GRUPO:PLASTICSCRUM
 
 En este laboratorio aprenderemos a controlar la calidad del software producido de manera simple y eficiente con la técnica de Integración Contínua y con la herramienta  Travis CI .
 
@@ -17,6 +17,8 @@ La herramienta Travis CI es una plataforma en la nube gratuita para repositorios
 3-Se pueden realizar más tareas antes y después de la verificación (como realizar tests unitarios o despliegue en plataformas PaaS), todo esto es controlado por el archivo .travis.yml que va en el directorio raíz del repo del proyecto.
 
 4-Se revisa la web de Travis CI si el build del proyecto fue exitoso o falló. En caso de falla, se enviara una notificación por correo electrónico.
+
+<img src="https://i2.wp.com/i.imgur.com/Bbn9LZY.png"/>
 
 Las herramientas que utilizamos para el laboratorio son las siguientes
 
