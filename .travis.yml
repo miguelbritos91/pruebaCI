@@ -2,6 +2,7 @@ language: "python"
 python: "2.7"
 install: "pip install -r requirements.txt"
 script: "python -m unittest discover"
+	- sonar-scanner
 
 notifications:
     slack: plasticscrum:O4YEYzaoFMLIJIdOQFZfVRiU
@@ -10,6 +11,3 @@ addons:
 	sonarqube:
 		token:
 			secure: 4d21d5cbbc44775625def7f45527c526e539eb4a
-
-script:
-	- sonar-scanner
