@@ -1,6 +1,6 @@
-# pruebaCI
-LABORATORIO DE INEGRACION CONTINUA 2017-CATEDRA TECNICAS DE DESARROLLO DE SOFTWARE AGIL
-GRUPO:PLASTICSCRUM
+# LABORATORIO DE INTEGRACION CONTINUA 2017-CATEDRA TECNICAS DE DESARROLLO DE SOFTWARE AGIL
+
+# GRUPO:PLASTICSCRUM
 
 En este laboratorio aprenderemos a controlar la calidad del software producido de manera simple y eficiente con la técnica de Integración Contínua y con la herramienta  Travis CI .
 
