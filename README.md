@@ -18,6 +18,8 @@ La herramienta Travis CI es una plataforma en la nube gratuita para repositorios
 
 4-Se revisa la web de Travis CI si el build del proyecto fue exitoso o falló. En caso de falla, se enviara una notificación por correo electrónico.
 
+<img src="https://i2.wp.com/i.imgur.com/Bbn9LZY.png"/>
+
 Las herramientas que utilizamos para el laboratorio son las siguientes
 
 -Github
